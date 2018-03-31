@@ -1,0 +1,5 @@
+{
+  "name": "VK Login + Heroku + Java",
+  "description": "VK Login via OAuth 2 using Heroku PAAS and Java.",
+  "addons": [ ]
+}
